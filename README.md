@@ -23,7 +23,7 @@ travel-landing-page/
 <img src="./images/Travel1.gif" alt="Desktop Demo" width="700">
 
 <h3>📱 Mobile / Tablet View</h3>
-<img src="./images/travel2.gif" alt="Mobile Demo" width="300">
+<img src="./images/Travel2.gif" alt="Mobile Demo" width="300">
 
 
 ## What I Learned 💡  
